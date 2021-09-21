@@ -1,0 +1,2970 @@
+{
+    "className": "aSPLI_MultiCensusLoading_In",
+    "ListCensusLoading": [
+        {
+            "className": "aSPLI_CensusLoading_In",
+            "Employee": {
+                "className": "aSPLI_CreateOrUpdateEmployee_In",
+                "EmployeeId": {
+                    "EmployeeId": "6101",
+                    "PersonId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "LegalEntityId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "Buid": ""
+                },
+                "Employee": {
+                    "className": "aAFCI_Employee",
+                    "DivisionId": {
+                        "InternalClientId": "CTR0000010158",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "DivisionName": "Regression Group 1",
+                    "DivisionShortName": "Regression Group 1",
+                    "WorksiteState": "Undefined",
+                    "EffectiveDate": "2017-01-01",
+                    "TerminationReason": "",
+                    "TerminationDate": "",
+                    "HireDate": "2017-01-01",
+                    "SalaryDefinedAtDate": null,
+                    "EmploymentStatus": "Active",
+                    "WorkingHours": "40",
+                    "WorkingHoursDefinedForFrequency": "Weekly",
+                    "WorkingCategory": "Full time",
+                    "BaseSalaryAmount": {
+                        "amount": "80000",
+                        "currency": "cUSDollar"
+                    },
+                    "BaseSalaryFrequency": "Annually",
+                    "SalaryCommissionAmount": {
+                        "amount": 0,
+                        "currency": "cUSDollar"
+                    },
+                    "SalaryCommissionFrequency": "Undefined",
+                    "SalaryBonusAmount": {
+                        "amount": 0,
+                        "currency": "cUSDollar"
+                    },
+                    "SalaryBonusFrequency": "Undefined",
+                    "CanBeEnrolled": true,
+                    "AdditionalDynamicDatas": [],
+                    "PatchUpdateOnly": false
+                },
+                "Person": {
+                    "className": "aSPLI_CreateOrUpdatePerson_Data",
+                    "PersonIdentity": {
+                        "className": "aAFCI_US_Person",
+                        "Gender": "Male",
+                        "OnCSLNList": null,
+                        "AdditionalDatas": [],
+                        "ChildSupportLienOnFile": false,
+                        "PersonInternalID": "",
+                        "SSN": "",
+                        "MaritalStatus": "Undefined",
+                        "PersonTitleEnum": "",
+                        "PriorName": "",
+                        "MiddleName1": "",
+                        "MiddleName2": "",
+                        "NameSuffix": "",
+                        "AttachedToAnOtherSSN": false,
+                        "Nationality": "UNITED STATES",
+                        "BirthRank": 0,
+                        "BirthCountry": "UNITED STATES",
+                        "BirthPlaceCity": "",
+                        "BirthPlaceZipCode": "",
+                        "BirthPlaceState": "",
+                        "LegalRepresentativeId_Deprecated5200": {
+                            "InternalClientId": "",
+                            "ExternalClientIdentifier": {
+                                "ExternalClientId": "",
+                                "ThirdPartyID": ""
+                            },
+                            "Buid": ""
+                        },
+                        "Occupation": "",
+                        "BirthDate": "1973-11-07",
+                        "VisibilityCode": 2,
+                        "Delinquent": false,
+                        "UnderSurveillance": false,
+                        "Name": "Smith",
+                        "ShortName": "Emp One",
+                        "CreationDate": "",
+                        "PreferredLanguageCode": "En",
+                        "TerminationDate": null,
+                        "IsAnonymous": false,
+                        "PreferredContactChoice": "#DynamicalActorText# with Default Correspondence",
+                        "PatchUpdateOnly": false
+                    },
+                    "LegalRepresentative": null,
+                    "ClaimDisbursementChannel": [],
+                    "ClientId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": ""
+                        },
+                        "Buid": ""
+                    },
+                    "ThirdPartyID": "",
+                    "UpdateDate": "",
+                    "Correspondences": [
+                        {
+                            "className": "aSPCB_Correspondence",
+                            "EffectiveDate": "",
+                            "AddressUsage": "3",
+                            "Address": {
+                                "className": "aAFCI_PostalAddressWithValidation",
+                                "IsValidationAttempted": false,
+                                "IsValidStatus": false,
+                                "State": "TX",
+                                "Line1": "2408 Mustang Rd",
+                                "Line2": "",
+                                "ZipCodeAndCity": {
+                                    "ZipCode": "75645",
+                                    "City": ""
+                                },
+                                "Country": "USA",
+                                "IsNotMandatory": false,
+                                "CorrespondenceID": {
+                                    "Buid": ""
+                                },
+                                "PatchUpdateOnly": false
+                            },
+                            "IsDefaultCorrespondance": true,
+                            "PrivatePhone": "7062334534",
+                            "PrivatePhoneExtension": "",
+                            "OfficePhone": "",
+                            "OfficePhoneExtension": "",
+                            "CellPhone": "",
+                            "Fax": "",
+                            "eMail": "test@test.com",
+                            "MediaType": "",
+                            "Invalid": false,
+                            "InvalidReason": "",
+                            "PatchUpdateOnly": false
+                        }
+                    ],
+                    "PaymentMethods": [],
+                    "ContactInformations": [],
+                    "LoginInformation": null,
+                    "IsInTestMode": false
+                },
+                "LegalEntityId": {
+                    "InternalClientId": "CTR0000010158",
+                    "ExternalClientIdentifier": {
+                        "ExternalClientId": "",
+                        "ThirdPartyID": ""
+                    },
+                    "Buid": ""
+                },
+                "IsInTestMode": false
+            },
+            "Enrollment": {
+                "className": "aAFCI_CreateOrUpdateEnrollment_In",
+                "BrokerAssociations": [],
+                "DistributionUnitCode": "IA",
+                "Insured": [
+                    {
+                        "className": "aSPLI_Insured_Data",
+                        "InsuredInformation": {
+                            "className": "aSPLI_InsuredWithRelation",
+                            "Dependence_Deprecated5200": "",
+                            "MainOwnerRelationshipToInsured": "",
+                            "AdditionalData": [],
+                            "PersonAdditionalData": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aSPCB_ClassificationValue",
+                                    "ValueCode": "",
+                                    "FieldValue": "",
+                                    "NameDescription": "",
+                                    "GrandfatheredClass": false,
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ClientId": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "LastName": "",
+                            "FirstName": "",
+                            "BirthDate": "",
+                            "SSN": "",
+                            "IsInTestMode": false
+                        },
+                        "AdditionalData": {
+                            "className": "aSPCB_AdditionalData_ValueDescription",
+                            "Value": {
+                                "className": "aAFCI_ClassificationValueField",
+                                "Classification": {
+                                    "Code": "",
+                                    "Name": ""
+                                },
+                                "FieldValueCode": "",
+                                "FieldValueName": "",
+                                "FieldCode": "",
+                                "FieldName": "",
+                                "CodeForPopulationClass": "",
+                                "PatchUpdateOnly": false
+                            },
+                            "Description": null,
+                            "Visibility": "",
+                            "MandatoryLevel": "",
+                            "PositionOrderX": 0,
+                            "PositionOrderY": 0,
+                            "VisibilityRule": "",
+                            "CoverageCode": "",
+                            "IsInTestMode": false
+                        },
+                        "Insured": {
+                            "className": "aSPLI_GetPerson",
+                            "SearchPerson": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "CreateOrUpdatePerson": null,
+                            "IsInTestMode": false
+                        },
+                        "RelationshipsToInsured": "",
+                        "EffectiveDate": null,
+                        "ExpiryDate": null,
+                        "RuleTerminationDate": null,
+                        "CICoverageDetails": {
+                            "TotalCoverageamount": {
+                                "amount": 0,
+                                "currency": "USD"
+                            },
+                            "LatestCoverageEffectiveDate": null,
+                            "InsuredHasPendingCoverage": false
+                        },
+                        "IsInTestMode": false
+                    },
+                    {
+                        "className": "aSPLI_Insured_Data",
+                        "InsuredInformation": {
+                            "className": "aSPLI_InsuredWithRelation",
+                            "Dependence_Deprecated5200": "",
+                            "MainOwnerRelationshipToInsured": "",
+                            "AdditionalData": [],
+                            "PersonAdditionalData": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aSPCB_ClassificationValue",
+                                    "ValueCode": "",
+                                    "FieldValue": "",
+                                    "NameDescription": "",
+                                    "GrandfatheredClass": false,
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ClientId": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "LastName": "",
+                            "FirstName": "",
+                            "BirthDate": "",
+                            "SSN": "",
+                            "IsInTestMode": false
+                        },
+                        "AdditionalData": {
+                            "className": "aSPCB_AdditionalData_ValueDescription",
+                            "Value": {
+                                "className": "aAFCI_ClassificationValueField",
+                                "Classification": {
+                                    "Code": "",
+                                    "Name": ""
+                                },
+                                "FieldValueCode": "",
+                                "FieldValueName": "",
+                                "FieldCode": "",
+                                "FieldName": "",
+                                "CodeForPopulationClass": "",
+                                "PatchUpdateOnly": false
+                            },
+                            "Description": null,
+                            "Visibility": "",
+                            "MandatoryLevel": "",
+                            "PositionOrderX": 0,
+                            "PositionOrderY": 0,
+                            "VisibilityRule": "",
+                            "CoverageCode": "",
+                            "IsInTestMode": false
+                        },
+                        "Insured": {
+                            "className": "aSPLI_GetPerson",
+                            "SearchPerson": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "CreateOrUpdatePerson": null,
+                            "IsInTestMode": false
+                        },
+                        "RelationshipsToInsured": "",
+                        "EffectiveDate": null,
+                        "ExpiryDate": null,
+                        "RuleTerminationDate": null,
+                        "CICoverageDetails": {
+                            "TotalCoverageamount": {
+                                "amount": 0,
+                                "currency": "USD"
+                            },
+                            "LatestCoverageEffectiveDate": null,
+                            "InsuredHasPendingCoverage": false
+                        },
+                        "IsInTestMode": false
+                    }
+                ],
+                "EnrollmentNumber": {
+                    "InternalPolicyIdentifier": {
+                        "InternalPolicyId": "",
+                        "IssuingCompanyCode": ""
+                    },
+                    "ExternalPolicyIdentifier": {
+                        "ExternalPolicyId": "",
+                        "ThirdPartyID": ""
+                    },
+                    "Buid": ""
+                },
+                "EnrollmentInformation": {
+                    "className": "aSPLI_MemberContract",
+                    "GBPNumber": {
+                        "InternalPolicyIdentifier": {
+                            "InternalPolicyId": "",
+                            "IssuingCompanyCode": ""
+                        },
+                        "ExternalPolicyIdentifier": {
+                            "ExternalPolicyId": "",
+                            "ThirdPartyID": ""
+                        },
+                        "Buid": ""
+                    },
+                    "CertificateInternalID": "",
+                    "ExternalManagement": false,
+                    "ClaimExternalManagement": false,
+                    "ResidenceStateCode": {
+                        "StateLabel": "",
+                        "StateName": "AL",
+                        "StateCode": "AL"
+                    },
+                    "AdditionalDatas": {
+                        "className": "aSPCB_ClassificationValue",
+                        "ValueCode": "",
+                        "FieldValue": "",
+                        "NameDescription": "",
+                        "GrandfatheredClass": false,
+                        "FieldCode": "",
+                        "FieldName": "",
+                        "CodeForPopulationClass": "",
+                        "PatchUpdateOnly": false
+                    },
+                    "CreationDate": "",
+                    "EffectiveDate": "",
+                    "SubscriptionDate": "",
+                    "SignatureDate": "2021-01-01",
+                    "TermOrRenewalDate": null,
+                    "LastRenewalDate": null,
+                    "ReinstatementDate": null,
+                    "TerminationDate": null,
+                    "TerminationReason": "",
+                    "TerminationNumber": 0,
+                    "BillingMode": "Next Period",
+                    "EndorsementKind": "",
+                    "Status": "Pending",
+                    "PatchUpdateOnly": false
+                },
+                "UpdateDate": "",
+                "SubscribedEntities": [
+                    {
+                        "className": "aSPLI_CreateOrUpdateSubscribedProduct_In",
+                        "ProductCode": {
+                            "ProductIdentifier": {
+                                "IssuingCompanyCode": "",
+                                "ProductCode": "AG.AC.70.K.VOL.#1"
+                            },
+                            "Buid": ""
+                        },
+                        "ProductInfo": {
+                            "className": "aAFCI_SubscribedProduct",
+                            "AdditionalDatas": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aAFCI_ClassificationValueField",
+                                    "Classification": {
+                                        "Code": "",
+                                        "Name": ""
+                                    },
+                                    "FieldValueCode": "",
+                                    "FieldValueName": "",
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ProductSpecificAdditionalData": [],
+                            "ExternalContractID": "",
+                            "EndorsementIndicator": "",
+                            "DoesProductSupportRollOver": false,
+                            "ProductCode": {
+                                "ProductIdentifier": {
+                                    "IssuingCompanyCode": "",
+                                    "ProductCode": "AG.AC.70.K.VOL.#1"
+                                },
+                                "Buid": ""
+                            },
+                            "CreationDate": "",
+                            "EffectiveDate": "2021-02-01",
+                            "SubscriptionDate": "",
+                            "SignatureDate": null,
+                            "TermOrRenewalDate": null,
+                            "LastRenewalDate": null,
+                            "ReinstatementDate": null,
+                            "TerminationDate": "",
+                            "TerminationReason": "",
+                            "TerminationNumber": 0,
+                            "BillingMode": "",
+                            "EndorsementKind": "",
+                            "Status": "Pending",
+                            "PatchUpdateOnly": false
+                        },
+                        "Coverages": [
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.INAC.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Smith",
+                                                    "ShortName": "ch one",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.ACDT.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Smith",
+                                                    "ShortName": "ch one",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.TMLF.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Smith",
+                                                    "ShortName": "ch one",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.INAC.C.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Smith",
+                                                    "ShortName": "ch one",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            }
+                        ],
+                        "IsInTestMode": false
+                    }
+                ],
+                "IsInTestMode": false
+            },
+            "IsInTestMode": false
+        },
+        {
+            "className": "aSPLI_CensusLoading_In",
+            "Employee": {
+                "className": "aSPLI_CreateOrUpdateEmployee_In",
+                "EmployeeId": {
+                    "EmployeeId": "6102",
+                    "PersonId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "LegalEntityId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "Buid": ""
+                },
+                "Employee": {
+                    "className": "aAFCI_Employee",
+                    "DivisionId": {
+                        "InternalClientId": "CTR0000010158",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": "FO"
+                        },
+                        "Buid": ""
+                    },
+                    "DivisionName": "Regression Group 1",
+                    "DivisionShortName": "Regression Group 1",
+                    "WorksiteState": "Undefined",
+                    "EffectiveDate": "2019-01-01",
+                    "TerminationReason": "",
+                    "TerminationDate": "",
+                    "HireDate": "2019-01-01",
+                    "SalaryDefinedAtDate": null,
+                    "EmploymentStatus": "Active",
+                    "WorkingHours": "40",
+                    "WorkingHoursDefinedForFrequency": "Weekly",
+                    "WorkingCategory": "Full time",
+                    "BaseSalaryAmount": {
+                        "amount": "80000",
+                        "currency": "cUSDollar"
+                    },
+                    "BaseSalaryFrequency": "Annually",
+                    "SalaryCommissionAmount": {
+                        "amount": 0,
+                        "currency": "cUSDollar"
+                    },
+                    "SalaryCommissionFrequency": "Undefined",
+                    "SalaryBonusAmount": {
+                        "amount": 0,
+                        "currency": "cUSDollar"
+                    },
+                    "SalaryBonusFrequency": "Undefined",
+                    "CanBeEnrolled": true,
+                    "AdditionalDynamicDatas": [],
+                    "PatchUpdateOnly": false
+                },
+                "Person": {
+                    "className": "aSPLI_CreateOrUpdatePerson_Data",
+                    "PersonIdentity": {
+                        "className": "aAFCI_US_Person",
+                        "Gender": "Female",
+                        "OnCSLNList": null,
+                        "AdditionalDatas": [],
+                        "ChildSupportLienOnFile": false,
+                        "PersonInternalID": "",
+                        "SSN": "",
+                        "MaritalStatus": "Undefined",
+                        "PersonTitleEnum": "",
+                        "PriorName": "",
+                        "MiddleName1": "",
+                        "MiddleName2": "",
+                        "NameSuffix": "",
+                        "AttachedToAnOtherSSN": false,
+                        "Nationality": "UNITED STATES",
+                        "BirthRank": 0,
+                        "BirthCountry": "UNITED STATES",
+                        "BirthPlaceCity": "",
+                        "BirthPlaceZipCode": "",
+                        "BirthPlaceState": "",
+                        "LegalRepresentativeId_Deprecated5200": {
+                            "InternalClientId": "",
+                            "ExternalClientIdentifier": {
+                                "ExternalClientId": "",
+                                "ThirdPartyID": ""
+                            },
+                            "Buid": ""
+                        },
+                        "Occupation": "",
+                        "BirthDate": "1980-01-01",
+                        "VisibilityCode": 2,
+                        "Delinquent": false,
+                        "UnderSurveillance": false,
+                        "Name": "Handerson",
+                        "ShortName": "Emp Two",
+                        "CreationDate": "",
+                        "PreferredLanguageCode": "En",
+                        "TerminationDate": null,
+                        "IsAnonymous": false,
+                        "PreferredContactChoice": "#DynamicalActorText# with Default Correspondence",
+                        "PatchUpdateOnly": false
+                    },
+                    "LegalRepresentative": null,
+                    "ClaimDisbursementChannel": [],
+                    "ClientId": {
+                        "InternalClientId": "",
+                        "ExternalClientIdentifier": {
+                            "ExternalClientId": "",
+                            "ThirdPartyID": ""
+                        },
+                        "Buid": ""
+                    },
+                    "ThirdPartyID": "",
+                    "UpdateDate": "",
+                    "Correspondences": [
+                        {
+                            "className": "aSPCB_Correspondence",
+                            "EffectiveDate": "",
+                            "AddressUsage": "3",
+                            "Address": {
+                                "className": "aAFCI_PostalAddressWithValidation",
+                                "IsValidationAttempted": false,
+                                "IsValidStatus": false,
+                                "State": "TX",
+                                "Line1": "454 Toyota Drive",
+                                "Line2": "",
+                                "ZipCodeAndCity": {
+                                    "ZipCode": "75645",
+                                    "City": ""
+                                },
+                                "Country": "USA",
+                                "IsNotMandatory": false,
+                                "CorrespondenceID": {
+                                    "Buid": ""
+                                },
+                                "PatchUpdateOnly": false
+                            },
+                            "IsDefaultCorrespondance": true,
+                            "PrivatePhone": "7155465656",
+                            "PrivatePhoneExtension": "",
+                            "OfficePhone": "",
+                            "OfficePhoneExtension": "",
+                            "CellPhone": "",
+                            "Fax": "",
+                            "eMail": "test@test.com",
+                            "MediaType": "",
+                            "Invalid": false,
+                            "InvalidReason": "",
+                            "PatchUpdateOnly": false
+                        }
+                    ],
+                    "PaymentMethods": [],
+                    "ContactInformations": [],
+                    "LoginInformation": null,
+                    "IsInTestMode": false
+                },
+                "LegalEntityId": {
+                    "InternalClientId": "CTR0000010158",
+                    "ExternalClientIdentifier": {
+                        "ExternalClientId": "",
+                        "ThirdPartyID": ""
+                    },
+                    "Buid": ""
+                },
+                "IsInTestMode": false
+            },
+            "Enrollment": {
+                "className": "aAFCI_CreateOrUpdateEnrollment_In",
+                "BrokerAssociations": [],
+                "DistributionUnitCode": "IA",
+                "Insured": [
+                    {
+                        "className": "aSPLI_Insured_Data",
+                        "InsuredInformation": {
+                            "className": "aSPLI_InsuredWithRelation",
+                            "Dependence_Deprecated5200": "",
+                            "MainOwnerRelationshipToInsured": "",
+                            "AdditionalData": [],
+                            "PersonAdditionalData": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aSPCB_ClassificationValue",
+                                    "ValueCode": "",
+                                    "FieldValue": "",
+                                    "NameDescription": "",
+                                    "GrandfatheredClass": false,
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ClientId": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "LastName": "",
+                            "FirstName": "",
+                            "BirthDate": "",
+                            "SSN": "",
+                            "IsInTestMode": false
+                        },
+                        "AdditionalData": {
+                            "className": "aSPCB_AdditionalData_ValueDescription",
+                            "Value": {
+                                "className": "aAFCI_ClassificationValueField",
+                                "Classification": {
+                                    "Code": "",
+                                    "Name": ""
+                                },
+                                "FieldValueCode": "",
+                                "FieldValueName": "",
+                                "FieldCode": "",
+                                "FieldName": "",
+                                "CodeForPopulationClass": "",
+                                "PatchUpdateOnly": false
+                            },
+                            "Description": null,
+                            "Visibility": "",
+                            "MandatoryLevel": "",
+                            "PositionOrderX": 0,
+                            "PositionOrderY": 0,
+                            "VisibilityRule": "",
+                            "CoverageCode": "",
+                            "IsInTestMode": false
+                        },
+                        "Insured": {
+                            "className": "aSPLI_GetPerson",
+                            "SearchPerson": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "CreateOrUpdatePerson": null,
+                            "IsInTestMode": false
+                        },
+                        "RelationshipsToInsured": "",
+                        "EffectiveDate": null,
+                        "ExpiryDate": null,
+                        "RuleTerminationDate": null,
+                        "CICoverageDetails": {
+                            "TotalCoverageamount": {
+                                "amount": 0,
+                                "currency": "USD"
+                            },
+                            "LatestCoverageEffectiveDate": null,
+                            "InsuredHasPendingCoverage": false
+                        },
+                        "IsInTestMode": false
+                    },
+                    {
+                        "className": "aSPLI_Insured_Data",
+                        "InsuredInformation": {
+                            "className": "aSPLI_InsuredWithRelation",
+                            "Dependence_Deprecated5200": "",
+                            "MainOwnerRelationshipToInsured": "",
+                            "AdditionalData": [],
+                            "PersonAdditionalData": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aSPCB_ClassificationValue",
+                                    "ValueCode": "",
+                                    "FieldValue": "",
+                                    "NameDescription": "",
+                                    "GrandfatheredClass": false,
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ClientId": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "LastName": "",
+                            "FirstName": "",
+                            "BirthDate": "",
+                            "SSN": "",
+                            "IsInTestMode": false
+                        },
+                        "AdditionalData": {
+                            "className": "aSPCB_AdditionalData_ValueDescription",
+                            "Value": {
+                                "className": "aAFCI_ClassificationValueField",
+                                "Classification": {
+                                    "Code": "",
+                                    "Name": ""
+                                },
+                                "FieldValueCode": "",
+                                "FieldValueName": "",
+                                "FieldCode": "",
+                                "FieldName": "",
+                                "CodeForPopulationClass": "",
+                                "PatchUpdateOnly": false
+                            },
+                            "Description": null,
+                            "Visibility": "",
+                            "MandatoryLevel": "",
+                            "PositionOrderX": 0,
+                            "PositionOrderY": 0,
+                            "VisibilityRule": "",
+                            "CoverageCode": "",
+                            "IsInTestMode": false
+                        },
+                        "Insured": {
+                            "className": "aSPLI_GetPerson",
+                            "SearchPerson": {
+                                "InternalClientId": "",
+                                "ExternalClientIdentifier": {
+                                    "ExternalClientId": "",
+                                    "ThirdPartyID": ""
+                                },
+                                "Buid": ""
+                            },
+                            "CreateOrUpdatePerson": null,
+                            "IsInTestMode": false
+                        },
+                        "RelationshipsToInsured": "",
+                        "EffectiveDate": null,
+                        "ExpiryDate": null,
+                        "RuleTerminationDate": null,
+                        "CICoverageDetails": {
+                            "TotalCoverageamount": {
+                                "amount": 0,
+                                "currency": "USD"
+                            },
+                            "LatestCoverageEffectiveDate": null,
+                            "InsuredHasPendingCoverage": false
+                        },
+                        "IsInTestMode": false
+                    }
+                ],
+                "EnrollmentNumber": {
+                    "InternalPolicyIdentifier": {
+                        "InternalPolicyId": "",
+                        "IssuingCompanyCode": ""
+                    },
+                    "ExternalPolicyIdentifier": {
+                        "ExternalPolicyId": "",
+                        "ThirdPartyID": ""
+                    },
+                    "Buid": ""
+                },
+                "EnrollmentInformation": {
+                    "className": "aSPLI_MemberContract",
+                    "GBPNumber": {
+                        "InternalPolicyIdentifier": {
+                            "InternalPolicyId": "",
+                            "IssuingCompanyCode": ""
+                        },
+                        "ExternalPolicyIdentifier": {
+                            "ExternalPolicyId": "",
+                            "ThirdPartyID": ""
+                        },
+                        "Buid": ""
+                    },
+                    "CertificateInternalID": "",
+                    "ExternalManagement": false,
+                    "ClaimExternalManagement": false,
+                    "ResidenceStateCode": {
+                        "StateLabel": "",
+                        "StateName": "AL",
+                        "StateCode": "AL"
+                    },
+                    "AdditionalDatas": {
+                        "className": "aSPCB_ClassificationValue",
+                        "ValueCode": "",
+                        "FieldValue": "",
+                        "NameDescription": "",
+                        "GrandfatheredClass": false,
+                        "FieldCode": "",
+                        "FieldName": "",
+                        "CodeForPopulationClass": "",
+                        "PatchUpdateOnly": false
+                    },
+                    "CreationDate": "",
+                    "EffectiveDate": "",
+                    "SubscriptionDate": "",
+                    "SignatureDate": "2021-01-01",
+                    "TermOrRenewalDate": null,
+                    "LastRenewalDate": null,
+                    "ReinstatementDate": null,
+                    "TerminationDate": null,
+                    "TerminationReason": "",
+                    "TerminationNumber": 0,
+                    "BillingMode": "Next Period",
+                    "EndorsementKind": "",
+                    "Status": "Pending",
+                    "PatchUpdateOnly": false
+                },
+                "UpdateDate": "",
+                "SubscribedEntities": [
+                    {
+                        "className": "aSPLI_CreateOrUpdateSubscribedProduct_In",
+                        "ProductCode": {
+                            "ProductIdentifier": {
+                                "IssuingCompanyCode": "",
+                                "ProductCode": "AG.AC.70.K.VOL.#1"
+                            },
+                            "Buid": ""
+                        },
+                        "ProductInfo": {
+                            "className": "aAFCI_SubscribedProduct",
+                            "AdditionalDatas": {
+                                "className": "aSPCB_AdditionalData_ValueDescription",
+                                "Value": {
+                                    "className": "aAFCI_ClassificationValueField",
+                                    "Classification": {
+                                        "Code": "",
+                                        "Name": ""
+                                    },
+                                    "FieldValueCode": "",
+                                    "FieldValueName": "",
+                                    "FieldCode": "",
+                                    "FieldName": "",
+                                    "CodeForPopulationClass": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "Description": null,
+                                "Visibility": "",
+                                "MandatoryLevel": "",
+                                "PositionOrderX": 0,
+                                "PositionOrderY": 0,
+                                "VisibilityRule": "",
+                                "CoverageCode": "",
+                                "IsInTestMode": false
+                            },
+                            "ProductSpecificAdditionalData": [],
+                            "ExternalContractID": "",
+                            "EndorsementIndicator": "",
+                            "DoesProductSupportRollOver": false,
+                            "ProductCode": {
+                                "ProductIdentifier": {
+                                    "IssuingCompanyCode": "",
+                                    "ProductCode": "AG.AC.70.K.VOL.#1"
+                                },
+                                "Buid": ""
+                            },
+                            "CreationDate": "",
+                            "EffectiveDate": "2021-02-01",
+                            "SubscriptionDate": "",
+                            "SignatureDate": null,
+                            "TermOrRenewalDate": null,
+                            "LastRenewalDate": null,
+                            "ReinstatementDate": null,
+                            "TerminationDate": "",
+                            "TerminationReason": "",
+                            "TerminationNumber": 0,
+                            "BillingMode": "",
+                            "EndorsementKind": "",
+                            "Status": "Pending",
+                            "PatchUpdateOnly": false
+                        },
+                        "Coverages": [
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.INAC.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Handerson",
+                                                    "ShortName": "ch Two",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.ACDT.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Handerson",
+                                                    "ShortName": "ch Two",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.TMLF.E.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Handerson",
+                                                    "ShortName": "ch Two",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            },
+                            {
+                                "className": "aSPLI_CreateOrUpdateIndividualLifeCoverage_In",
+                                "CoverageGeneralInformation": {
+                                    "className": "aSPLI_IndividualLifeCoverage",
+                                    "SignatureDate": null,
+                                    "OriginalEffectiveDate": null,
+                                    "AcquisitionKind": "",
+                                    "GrandFathered": false,
+                                    "AdditionalDatas": {
+                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                        "Value": {
+                                            "className": "aSPCB_ClassificationValue",
+                                            "ValueCode": "",
+                                            "FieldValue": "",
+                                            "NameDescription": "",
+                                            "GrandfatheredClass": false,
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Description": {
+                                            "className": "aSPCB_Classification",
+                                            "PossibleValues": [],
+                                            "DefaultValue": null,
+                                            "UseDefaultValue": false,
+                                            "IsCalculated": false,
+                                            "ExternalDescCode": "",
+                                            "FieldCode": "",
+                                            "FieldName": "",
+                                            "CodeForPopulationClass": "",
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "Visibility": "",
+                                        "MandatoryLevel": "",
+                                        "PositionOrderX": 0,
+                                        "PositionOrderY": 0,
+                                        "VisibilityRule": "",
+                                        "CoverageCode": "",
+                                        "IsInTestMode": false
+                                    },
+                                    "CreationDate": "",
+                                    "PackageName": "",
+                                    "OptionCode": "AG.AC.70.K.V.INAC.C.",
+                                    "OptionName": "",
+                                    "EffectiveDate": "",
+                                    "SubscriptionDate": "",
+                                    "TerminationDate": null,
+                                    "TerminationReason": "",
+                                    "TerminationNumber": 0,
+                                    "BillingServiceName": "",
+                                    "Status": "Pending",
+                                    "OptionVersion": 0,
+                                    "IsBuyUp": false,
+                                    "BuyUpIndex": 0,
+                                    "CoverageType": "",
+                                    "PatchUpdateOnly": false
+                                },
+                                "InsuredPersons": [
+                                    {
+                                        "className": "aSPLI_CreateOrUpdateCoveredPerson_In",
+                                        "CoveredPerson": {
+                                            "className": "aSPLI_GetPerson",
+                                            "SearchPerson": {
+                                                "InternalClientId": "",
+                                                "ExternalClientIdentifier": {
+                                                    "ExternalClientId": "",
+                                                    "ThirdPartyID": ""
+                                                },
+                                                "Buid": ""
+                                            },
+                                            "CreateOrUpdatePerson": {
+                                                "className": "aAFCI_CreateOrUpdatePerson_Data",
+                                                "ip_responseInformations": [],
+                                                "PersonIdentity": {
+                                                    "className": "aAFCI_US_Person",
+                                                    "Gender": "M",
+                                                    "OnCSLNList": null,
+                                                    "AdditionalDatas": {
+                                                        "className": "aSPCB_AdditionalData_ValueDescription",
+                                                        "Value": {
+                                                            "className": "aSPCB_ClassificationValue",
+                                                            "ValueCode": "",
+                                                            "FieldValue": "",
+                                                            "NameDescription": "",
+                                                            "GrandfatheredClass": false,
+                                                            "FieldCode": "",
+                                                            "FieldName": "",
+                                                            "CodeForPopulationClass": "",
+                                                            "PatchUpdateOnly": false
+                                                        },
+                                                        "Description": null,
+                                                        "Visibility": "",
+                                                        "MandatoryLevel": "",
+                                                        "PositionOrderX": 0,
+                                                        "PositionOrderY": 0,
+                                                        "VisibilityRule": "",
+                                                        "CoverageCode": "",
+                                                        "IsInTestMode": false
+                                                    },
+                                                    "ChildSupportLienOnFile": false,
+                                                    "PersonInternalID": "",
+                                                    "SSN": "",
+                                                    "MaritalStatus": "",
+                                                    "PersonTitleEnum": "",
+                                                    "PriorName": "",
+                                                    "MiddleName1": "",
+                                                    "MiddleName2": "",
+                                                    "NameSuffix": "",
+                                                    "AttachedToAnOtherSSN": false,
+                                                    "Nationality": "",
+                                                    "BirthRank": 0,
+                                                    "BirthCountry": "",
+                                                    "BirthPlaceCity": "",
+                                                    "BirthPlaceZipCode": "",
+                                                    "BirthPlaceState": "",
+                                                    "LegalRepresentativeId_Deprecated5200": {
+                                                        "InternalClientId": "",
+                                                        "ExternalClientIdentifier": {
+                                                            "ExternalClientId": "",
+                                                            "ThirdPartyID": ""
+                                                        },
+                                                        "Buid": ""
+                                                    },
+                                                    "Occupation": "",
+                                                    "BirthDate": "20101107",
+                                                    "VisibilityCode": 2,
+                                                    "Delinquent": false,
+                                                    "UnderSurveillance": false,
+                                                    "Name": "Handerson",
+                                                    "ShortName": "ch Two",
+                                                    "CreationDate": "",
+                                                    "PreferredLanguageCode": "",
+                                                    "TerminationDate": null,
+                                                    "IsAnonymous": false,
+                                                    "PreferredContactChoice": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "LegalRepresentative": null,
+                                                "ClaimDisbursementChannel": [],
+                                                "ClientId": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "ThirdPartyID": "FO",
+                                                "UpdateDate": null,
+                                                "Correspondences": {
+                                                    "className": "aSPCB_Correspondence",
+                                                    "EffectiveDate": "",
+                                                    "AddressUsage": "0",
+                                                    "Address": {
+                                                        "className": "aAFCI_PostalAddressWithValidation",
+                                                        "IsValidationAttempted": false,
+                                                        "IsValidStatus": false,
+                                                        "State": "",
+                                                        "Line1": "",
+                                                        "Line2": "",
+                                                        "ZipCodeAndCity": {
+                                                            "ZipCode": "",
+                                                            "City": ""
+                                                        },
+                                                        "Country": "",
+                                                        "IsNotMandatory": false,
+                                                        "CorrespondenceID": {
+                                                            "Buid": ""
+                                                        },
+                                                        "PatchUpdateOnly": false
+                                                    },
+                                                    "IsDefaultCorrespondance": true,
+                                                    "PrivatePhone": "",
+                                                    "PrivatePhoneExtension": "",
+                                                    "OfficePhone": "",
+                                                    "OfficePhoneExtension": "",
+                                                    "CellPhone": "",
+                                                    "Fax": "",
+                                                    "eMail": "",
+                                                    "MediaType": "",
+                                                    "Invalid": false,
+                                                    "InvalidReason": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                "PaymentMethods": [],
+                                                "ContactInformations": [],
+                                                "LoginInformation": null,
+                                                "IsInTestMode": false
+                                            },
+                                            "IsInTestMode": false
+                                        },
+                                        "Details": {
+                                            "className": "aSPLI_CoveredPerson",
+                                            "Relationship_Deprecated": "",
+                                            "EndDate": null,
+                                            "EffectiveDate": "",
+                                            "AdditionalDatas": [
+                                                {
+                                                    "className": "aSPCB_AdditionalDataValue_Text",
+                                                    "FieldValue": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                },
+                                                {
+                                                    "className": "aAFCI_ClassificationValueField",
+                                                    "Classification": {
+                                                        "Code": "",
+                                                        "Name": ""
+                                                    },
+                                                    "FieldValueCode": "",
+                                                    "FieldValueName": "",
+                                                    "FieldCode": "",
+                                                    "FieldName": "",
+                                                    "CodeForPopulationClass": "",
+                                                    "PatchUpdateOnly": false
+                                                }
+                                            ],
+                                            "SignatureDate": null,
+                                            "PatchUpdateOnly": false
+                                        },
+                                        "RelationToOwners": [
+                                            {
+                                                "className": "aSPLI_RelationToOwner",
+                                                "PolicyOwner": {
+                                                    "InternalClientId": "",
+                                                    "ExternalClientIdentifier": {
+                                                        "ExternalClientId": "",
+                                                        "ThirdPartyID": ""
+                                                    },
+                                                    "Buid": ""
+                                                },
+                                                "Relation": "Child",
+                                                "IsInTestMode": false
+                                            }
+                                        ],
+                                        "IsInTestMode": false
+                                    }
+                                ],
+                                "Beneficiaries": [],
+                                "CoverageAmount": null,
+                                "UnderwrittingData": [],
+                                "IsInTestMode": false
+                            }
+                        ],
+                        "IsInTestMode": false
+                    }
+                ],
+                "IsInTestMode": false
+            },
+            "IsInTestMode": false
+        }
+    ],
+    "IsInTestMode": false
+}
